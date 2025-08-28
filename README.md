@@ -9,10 +9,13 @@ If I make a 60% iso keyboard, how am I gonna use function keys? This is legit ju
 ![](/Images/Screenshot%202025-08-28%20110808.png)  
 ![](/Images/Screenshot%202025-08-28%20110819.png)  
 ![](/Images/Screenshot%202025-08-28%20110827.png)  
+![](/Images/Screenshot%202025-08-28%20132903.png)  
+![](/Images/Screenshot%202025-08-28%20132916.png)  
 
 # Bill of Materials (BOM)
 
 | Item            | Quantity |
 |-----------------|----------|
-| Keycap - Black  | 12       |
-| XIAO RP2040     | 1        |
+| Keycap-Black    | 12       |
+| XIAO-RP2040     | 1        |
+| Switches        | 12       |
