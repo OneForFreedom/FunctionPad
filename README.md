@@ -1,6 +1,7 @@
 # FunctionPad
 If I make a 60% iso keyboard, how am I gonna use function keys? This is legit just 12 keys from f1-12.
 
+# EYE CANDY!
 ![](/Images/Screenshot%202025-08-28%20012143.png)  
 ![](/Images/Screenshot%202025-08-28%20110636.png)  
 ![](/Images/Screenshot%202025-08-28%20110646.png)  
@@ -9,7 +10,9 @@ If I make a 60% iso keyboard, how am I gonna use function keys? This is legit ju
 ![](/Images/Screenshot%202025-08-28%20110808.png)  
 ![](/Images/Screenshot%202025-08-28%20110819.png)  
 ![](/Images/Screenshot%202025-08-28%20110827.png)  
+## PCB
 ![](/Images/Screenshot%202025-08-28%20132903.png)  
+## SCHEMATIC
 ![](/Images/Screenshot%202025-08-28%20132916.png)  
 
 # Bill of Materials (BOM)
