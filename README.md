@@ -1,7 +1,7 @@
 # FunctionPad
 If I make a 60% iso keyboard, how am I gonna use function keys? This is legit just 12 keys from f1-12.
 
-# EYE CANDY!
+## EYE CANDY!
 ![](/Images/Screenshot%202025-08-28%20012143.png)  
 ![](/Images/Screenshot%202025-08-28%20110636.png)  
 ![](/Images/Screenshot%202025-08-28%20110646.png)  
@@ -15,7 +15,7 @@ If I make a 60% iso keyboard, how am I gonna use function keys? This is legit ju
 ## SCHEMATIC
 ![](/Images/Screenshot%202025-08-28%20132916.png)  
 
-# Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Item            | Quantity |
 |-----------------|----------|
