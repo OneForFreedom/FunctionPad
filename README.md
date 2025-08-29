@@ -22,3 +22,4 @@ If I make a 60% iso keyboard, how am I gonna use function keys? This is legit ju
 | Keycap-Black    | 12       |
 | XIAO-RP2040     | 1        |
 | Switches        | 12       |
+| 1N4148 DIODE    | 12       |
